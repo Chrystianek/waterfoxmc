@@ -1,0 +1,27 @@
+body{
+    background-image: url(zdjecie.png);
+}
+
+.naglowek{
+    font-size: 70px;
+    text-align: center;
+    font-family: Arial;
+    color: aqua;
+    font-weight: bold;
+}
+.napis{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    color: red;
+}
+.przycisk{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+   
+   
+
+   
